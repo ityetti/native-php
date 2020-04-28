@@ -1,0 +1,1 @@
+<?php echo date("d.m.Y H:i", mktime(14, 10, 0, 07, 10, 2018));
