@@ -1,1 +1,1 @@
-Learning PHP from the book of PHP7 
+Learning PHP from the book of PHP7 Workshop (author Igor Simdyanov)
